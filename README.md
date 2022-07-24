@@ -25,7 +25,7 @@ A personnal management web app built in PHP.
 
 These are the instruction how to run the app on your machine:
 
-Clone the repo to your www folder or where you prefer `git clone https://github.com/Jakub41/Simple-PHP-Web-App.git `
+Clone the repo to your www folder or where you prefer `git clone https://github.com/OmarMAARAF/application-de-gestion-du-personnel-v1.0-avec-PHP- `
 
 This project was built in **PHP/MySQL** and need to be run under an app like **MAMP/WAMP/XAMP** 
 
