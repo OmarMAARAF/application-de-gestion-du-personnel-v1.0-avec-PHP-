@@ -40,7 +40,7 @@ Make sure to import the **bd_wilaya** in  a database with the same name in your 
 
 - PHP
 - MySQL
-- Materialize a CSS framework [Link](http://materializecss.com/)
+- CSS/Bootstrap
 - Jquery 
 - HTML
 
