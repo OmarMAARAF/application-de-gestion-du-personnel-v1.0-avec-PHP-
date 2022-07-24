@@ -33,7 +33,7 @@ If you use one of the app above be aware to clone the repo under your htdocs fol
 
 Configure the `files/templates/dark-admin/ConnectDb.php` file with yours DB info.
 
-Make sure to import the **bd_wilaya** in  a database with the same name in your ConnectDB.php file
+Make sure to import the **bd_wilaya** in  a database with the same name in your ConnectDb.php file
 
 
 ## What was used
